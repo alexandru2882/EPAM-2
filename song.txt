@@ -4,14 +4,10 @@ What has been so gracious
 Is becoming a wrack.
 
 Nothing never stops,
-<<<<<<< HEAD
 Nothing ever drops.
 
 Added this line
 To meke it shine.
-=======
-Nothing ever drops.
->>>>>>> 4fdcce0457c2d7ec31694cd4597e183c2ba158bd
 
 
 ceva nou
